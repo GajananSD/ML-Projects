@@ -55,8 +55,9 @@ The dataset includes various technical specifications of mobile phones and their
 Used Streamlit for user-interface where user can give input data and then model will predict the output.
 
 <p align="center">
-  <img src="images/00.png" alt="Image 1" width="25%" style="margin-right: 10px;" />
-  <img src="images/01.png" alt="Image 4" width="25%" />
+  <img src="images/00.png" alt="Image 1" width="50%" style="margin-right: 10px;" />
+  <img src="images/01.png" alt="Image 2" width="44%" style="margin-right: 10px;" />
+
 </p>
 
 ---
