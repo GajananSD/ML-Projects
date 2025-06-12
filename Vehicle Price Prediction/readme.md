@@ -124,7 +124,7 @@ A **Streamlit web app** allows users to select or input vehicle features and vie
 
 ---
 
-## 🥺 Installation & Setup
+## Installation & Setup
 
 Follow these steps to run locally:
 
