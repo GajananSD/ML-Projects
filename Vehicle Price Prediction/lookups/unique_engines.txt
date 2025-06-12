@@ -1,0 +1,120 @@
+24V GDI DOHC Twin Turbo
+OHV
+6.2L V-8 gasoline direct injection, variable valve contr
+16V MPFI OHV
+24V DDI OHV Turbo Diesel
+24V MPFI DOHC
+32V DDI OHV Turbo Diesel
+16V GDI DOHC Turbo Hybrid
+ar 3.6L V-6 DOHC, variable valve control, regular unleade
+16V GDI DOHC Turbo
+oled Turbo Diesel I-6 6.7 L/408
+16V PDI DOHC Turbo
+c
+4 gasoline direct injection, DOHC, variable valve control
+16V PDI DOHC
+DOHC
+24V PDI DOHC Flexible Fuel
+16V GDI OHV
+16V MPFI DOHC
+24V GDI DOHC
+gasoline direct injection, DOHC, intercooled turbo, premi
+16V GDI DOHC Hybrid
+24V GDI SOHC
+gasoline direct injection, DOHC, variable valve control,
+c Motor
+4 gasoline direct injection, DOHC, Multiair variable valv
+4 gasoline direct injection, DOHC, CVVT variable valve co
+24V PDI DOHC Twin Turbo
+ream 2.5L I-4 port/direct injection, DOHC, CVVT variable
+24V GDI DOHC Turbo
+MAX 3.4L V-6 port/direct injection, DOHC, variable valve
+4 DOHC, CVTCS variable valve control, regular unleaded, e
+12V GDI DOHC Turbo
+o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl
+ne 3L I-6 gasoline direct injection, DOHC, variable valve
+4 port/direct injection, DOHC, CVVT variable valve contro
+oled Turbo Premium Unleaded V-6 3.0 L/183
+High Output 6.7L I-6 diesel direct injection, VVT interc
+DOHC 16V LEV3-SULEV30
+16V DDI DOHC Turbo Diesel
+Turbo DOHC
+TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable
+6 gasoline direct injection, variable valve control, regu
+24V MPFI DOHC Hybrid
+16V GDI DOHC
+ne 2L I-4 gasoline direct injection, DOHC, variable valve
+o 2L I-4 port/direct injection, DOHC, variable valve cont
+8 variable valve control, regular unleaded, engine with 4
+1.3L I-3 gasoline direct injection, DOHC, variable valve
+t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v
+oBoost
+>
+
+    
+    <dt>VIN</dt>
+     ZACNDFAN0R3A12168
+24V VVT
+.6L I-4 gasoline direct injection, DOHC, D-CVVT variable
+6.7L I-6 diesel direct injection, VVT intercooled turbo,
+16V PDI DOHC Turbo Hybrid
+24V DDI DOHC Turbo Diesel
+;
+dd>
+
+    
+    <dt>VIN</dt>
+     1V2BMPE85RC003636
+gasoline direct injection, DOHC, i-VTEC variable valve co
+6.6L V-8 diesel direct injection, intercooled turbo, die
+der
+12V PDI DOHC Turbo
+oled Turbo Premium Unleaded I-4 2.0 L/122
+ce 5.6L V-8 gasoline direct injection, DOHC, variable val
+c ZEV
+4 port/direct injection, DOHC, variable valve control, in
+Unleaded V-8 5.6 L/339
+12V GDI OHV
+t 2L I-4 gasoline direct injection, DOHC, variable valve
+6 port/direct injection, DOHC, variable valve control, re
+6 gasoline direct injection, i-VTEC variable valve contro
+6 DOHC, variable valve control, regular unleaded, engine
+5.3L V-8 gasoline direct injection, variable valve contr
+6 DOHC, VVT variable valve control, engine with cylinder
+ar 3.6L V-6 DOHC, VVT variable valve control, regular unl
+32V GDI DOHC Twin Turbo
+24V DOHC
+<dt>VIN</dt>
+     3GN7DNRPXRS232327
+diesel direct injection, DOHC, intercooled turbo, diesel,
+nan
+24V PDI DOHC Twin Turbo Hybrid
+EcoBoost
+<dt>VIN</dt>
+     1FMUK7HH1SGA05728
+ER
+<dt>VIN</dt>
+     3C63R3HLXRG198198
+ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia
+d>
+
+    
+    <dt>VIN</dt>
+     SADHM2S12R1631756
+16V PDI DOHC Hybrid
+c ZEV 320hp
+gasoline direct injection, DOHC, iVCT variable valve cont
+4 DOHC, variable valve control, regular unleaded, engine
+6 gasoline direct injection, DOHC, variable valve control
+rbo Regular Unleaded I-6 3.0 L/183
+II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia
+d>
+
+    
+    <dt>VIN</dt>
+     7FARS4H71SE000866
+16V MPFI DOHC Hybrid
+o
+4L V-8 VVT variable valve control, regular unleaded, engi
+DOHC, D-CVVT variable valve control, regular unleaded, en
+8 gasoline direct injection, variable valve control, regu
