@@ -1,0 +1,262 @@
+Bright White Clearcoat : 80
+Black : 31
+White : 29
+Summit White : 25
+Gray : 25
+Diamond Black : 25
+Silver Zynith : 21
+Metallic : 20
+Blue : 18
+DB Black Crystal Clearcoat : 17
+White Knuckle Clearcoat : 16
+Atlas : 16
+Midnight Sky : 15
+Oxford White : 14
+Carbonized Gray Metallic : 13
+Velvet Red Pearlcoat : 11
+White Pearl : 11
+Diamond Black Crystal Pearlcoat : 10
+Gold : 10
+Black Pearl : 9
+Phantom Black : 8
+Pure White : 8
+Granite Crystal Metallic Clearcoat : 8
+Baltic Gray Metallic Clearcoat : 8
+Blue Steel : 8
+Amazon Gray : 8
+Radiant Red : 8
+Hydro Blue Pearlcoat : 7
+Ebony Black : 7
+Pearl White : 7
+Pyrite Silver Metallic : 7
+8 Ball : 7
+Silver : 7
+Star White : 7
+Green : 6
+Deep Crystal Blue Mica : 6
+Gravity Gray : 6
+Red : 6
+Glacier White Metallic : 6
+8 BALL : 6
+Billet Silver Metallic Clearcoat : 6
+Gun Metallic : 6
+Deep Black Pearl : 6
+Rhodium White Premium : 5
+Riverrock Green : 5
+Electric Blue Metallic : 5
+Black Clearcoat : 5
+Polar White : 5
+Agate Black Metallic : 5
+Anvil Clearcoat : 5
+White Frost Tri-Coat : 5
+Sterling Gray Metallic : 5
+Jet Black Mica : 4
+Lunar Silver Metallic : 4
+Shadow Black : 4
+Glacial White Pearl : 4
+Rhodium White Metallic : 4
+Glacier White : 4
+Aurora Black Pearl : 4
+HOT TAMALE : 4
+Deep Black Pearl Effect : 4
+Black Sapphire Metallic : 4
+Acapulco Gold : 4
+Ebony Twilight Metallic : 4
+Granite Crystal Clearcoat Metallic : 4
+Deep Sea : 4
+Blue Stone : 4
+Blu Bayou : 4
+Wolf Gray : 3
+Crystal White Tri-Coat : 3
+Ebony : 3
+Hot Tamale : 3
+Mosaic Black Metallic : 3
+Serenity White : 3
+Slate Gray Metallic : 3
+Super Black : 3
+Sage Gray : 3
+Artisan Red Premium : 3
+Steel Gray : 3
+Opal White Pearl Effect : 3
+Deep Ocean Blue Pearl : 3
+Gray Cray : 3
+Snow White Pearl : 3
+Iconic Silver Metallic : 3
+Ocean Blue Metallic : 3
+Vapor Gray : 3
+Hampton Gray : 3
+Gray Metallic : 3
+Shimmering Silver : 3
+Teal : 3
+Abyss Black Pearl : 3
+Obsidian Black Metallic : 3
+Flame Red Clearcoat : 3
+Platinum White Pearl : 3
+Deep Ocean Blue : 2
+Orange Pearl : 2
+Dark Ash Metallic : 2
+Black Sapphire : 2
+Glacier Gray : 2
+Crystal White Pearl : 2
+Machine : 2
+Boulder Gray Metallic : 2
+Sky : 2
+Q Ball : 2
+Vapor Blue Metallic : 2
+Mythos Black Metallic : 2
+Soul Red Crystal Metallic : 2
+Gray Pearl : 2
+Aspen White Tricoat/Super Black : 2
+Cyber Gray Metallic : 2
+Deep Ocean Pearl : 2
+Anvil Clear Coat : 2
+Star White Metallic Tri-Coat : 2
+Radiant White : 2
+Emerald : 2
+Silver Metallic : 2
+Onyx Black : 2
+Sunrise Red Metallic : 2
+Still Night Pearl : 2
+Jet Black : 2
+Aspen White Tricoat : 2
+Soul : 2
+Rapid Red Metallic Tinted Clearcoat : 2
+Cyber Gray : 2
+Laser Blue Pearlcoat : 2
+Race Red : 2
+Q BALL : 2
+Platinum Gray Metallic : 2
+Silver Zynith Clearcoat : 2
+High Velocity Clearcoat : 2
+Pearlcoat : 2
+Patriot Blue Pearlcoat : 2
+Portofino Gray : 2
+Volcanic Red : 2
+Machine Gray Metallic : 2
+Scarlet Ember Tintcoat : 2
+Blue Steele : 2
+Arctic White : 2
+Jungle Green : 1
+Glacier : 1
+Graphite Shadow : 1
+Glacier White Pearl : 1
+Smoked Mesquite : 1
+Stellar Black Metallic : 1
+Scarlet Ember Tintcoat/Super Black : 1
+Canyon : 1
+Crystal Black Silica : 1
+Rhodium : 1
+Mirage : 1
+CELESTITE : 1
+Cactus Gray : 1
+Cactus Green / Gray : 1
+Sarge Green Clearcoat : 1
+Midnight Sapphire : 1
+Pearl White Tricoat : 1
+Iconic Silver : 1
+Gloss Black : 1
+Aspen White / Super Black : 1
+Crystal White Tricoat : 1
+Red Metallic : 1
+Celestial Silver Metallic : 1
+Celestial Metallic : 1
+Tanzanite Blue II Metallic : 1
+Platinum : 1
+Titan Gray : 1
+Argent Silver Metallic : 1
+Sparkling : 1
+Silver Sky Metallic : 1
+Gravity Gold Matte : 1
+Santorini Black : 1
+Frozen White : 1
+Delmonico Red Pearlcoat : 1
+Cloud White : 1
+Magnetic Gray Metallic : 1
+Hot Pepper Red Metallic Tinted Clearcoat : 1
+Midnight Black : 1
+41w : 1
+Vik Black : 1
+Iridium Silver : 1
+Urban Gray Pearl : 1
+Sting-Gray Clearcoat : 1
+Destroyer Gray Clearcoat : 1
+Modern Steel Metallic : 1
+Florett Silver Metallic : 1
+Supersonic Red : 1
+Onyx Black Metallic : 1
+Eruption Green Metallic : 1
+Pure Red : 1
+Scarlet Ember : 1
+Bright White : 1
+Hyper White : 1
+Blue Dusk : 1
+Crimson Metallic : 1
+Magnetite : 1
+Silver Bird Metallic : 1
+Caviar : 1
+BX : 1
+Titanium Gray : 1
+Mineral White : 1
+Sting Gray Clearcoat : 1
+Copper Bronze : 1
+Snowflake White Pearl : 1
+Bright Silver Clearcoat Metallic : 1
+Sterling Metallic : 1
+Vapor Blue : 1
+Ice Silver Metallic : 1
+Sonic : 1
+Navarra Blue Metallic : 1
+SILVER : 1
+Aspen White : 1
+Twilight Blue Metallic : 1
+Boulder Gray Pearl : 1
+Ice Cap : 1
+Ultra Blue Metallic : 1
+Silver Gray : 1
+Radiant Red Metallic : 1
+Red Line : 1
+Avocado Green : 1
+Slate Gray : 1
+Galactic : 1
+Earl Clearcoat : 1
+Night : 1
+Infinite Black Metallic : 1
+Pure Gray W/Black Roof : 1
+Silver Mist Metallic : 1
+Yacht Blue : 1
+Arroios Grey : 1
+Granite : 1
+Autumn Green : 1
+Gondwana Stone : 1
+WHITE : 1
+Mineral White Metallic : 1
+Runway Red : 1
+Agate Black : 1
+Azure Gray Metallic : 1
+Silver Zynith Metallic Clearcoat : 1
+Alpine White : 1
+Pearl : 1
+Baltic Gray : 1
+Carbon Blue : 1
+Aventurin Red Metallic : 1
+Steel / Graphite : 1
+Olive Green Pearlcoat : 1
+DB Black Clearcoat : 1
+Fathom Blue Pearlcoat : 1
+Daytona Gray Pearl : 1
+Bright : 1
+Opal White Pearl : 1
+Tactical Green Metallic : 1
+Black Obsidian : 1
+Fuji White : 1
+Gray White : 1
+Radiant Red Metallic II : 1
+PAS Baltic Grey Metallic Clear Coat : 1
+Bikini Pearl Coat : 1
+Aurora Black : 1
+Uyuni White : 1
+Artisan Red Metallic : 1
+Eiger Grey : 1
+Alpine Gray : 1
+Cayenne Orange Metallic : 1
+Wheatland Yellow : 1

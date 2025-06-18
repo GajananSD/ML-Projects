@@ -1,0 +1,198 @@
+Limited : 68
+Base : 56
+Pursuit : 33
+SEL : 33
+Latitude : 29
+Premium : 28
+Tradesman : 25
+Laredo : 18
+GT : 17
+1.5T SE : 17
+R/T Plus : 15
+Series II : 15
+SV : 14
+SEL Convenience : 14
+R/T : 14
+LT : 13
+Sport : 13
+Laramie : 13
+S : 12
+Rubicon : 12
+Trailhawk : 12
+SE : 11
+Big Horn : 11
+GT AWD : 11
+XLT : 11
+SR : 10
+EX : 10
+High Roof : 10
+Premium Plus : 9
+Altitude : 9
+Base 4MATIC : 9
+SXT : 9
+Preferred : 8
+Denali : 8
+X-Line : 8
+Blue : 8
+2.5T XRT : 8
+Platinum : 7
+2.5L SEL : 7
+SX : 7
+Wind : 7
+Hornet R/T Plus Eawd : 6
+RS : 6
+Active : 6
+Luxury : 6
+LX : 6
+1.5T S : 5
+Technology : 5
+1.4T S : 5
+N Line : 5
+ST-Line : 5
+1LT : 5
+Tradesman Crew Cab 4x4 8&#39; Box : 5
+Sahara : 5
+Overland : 5
+Laramie Crew Cab 4x4 8&#39; Box : 5
+4MATIC : 5
+LS : 4
+SLT : 4
+WT : 4
+Big Bend : 4
+TOURING : 4
+Touring-L : 4
+xDrive40i : 4
+Sport S : 4
+2.5T NIGHT : 4
+Series III : 4
+EX-L : 3
+M60 : 3
+Custom Trail Boss : 3
+LUXE : 3
+1.5T SEL : 3
+Select : 3
+Dynamic SE : 3
+X-Pro Prestige : 3
+LT Trail Boss : 3
+Sport Touring : 3
+2.5T Limited : 3
+Avenir : 3
+SLE : 3
+Custom : 3
+RST : 3
+1.4T SE : 3
+148 WB Medium Roof Cargo : 3
+R/T EAWD : 3
+Work Van : 3
+Touring L : 2
+Timberline : 2
+Light Long Range : 2
+S line Premium : 2
+M50 : 2
+Lariat Super Duty : 2
+Wilderness : 2
+Elite : 2
+TrailSport : 2
+Denali Ultimate : 2
+Summit : 2
+Pro : 2
+Sport-L : 2
+Titanium : 2
+SX-Prestige : 2
+Touring : 2
+Latitude Lux : 2
+Rubicon X : 2
+2LT : 2
+LE : 2
+Outer Banks : 2
+3.3 Turbo S Premium : 2
+eDrive40 : 2
+Standard Roof : 2
+SL : 2
+Scat Pack : 2
+Low Roof : 2
+4x4 : 2
+Disney100 Platinum Edition : 2
+S line Premium Plus : 2
+1.6 SV : 2
+Reserve : 2
+Anniversary Edition : 2
+55 Premium Plus : 2
+1.6 SR : 2
+XL : 2
+Tradesman 4x4 Crew Cab 8 Box : 1
+1794 Edition : 1
+SENSORY : 1
+Sport w/1SJ : 1
+xDrive40 : 1
+Crew 144 WB : 1
+LXS : 1
+XSE : 1
+EV400 R-Dynamic HSE : 1
+1.4T SEL : 1
+STX : 1
+SPORT : 1
+Advanced : 1
+Twin Ultimate : 1
+Tradesman Regular Cab 4x4 8&#39; Box : 1
+3.3 Turbo Premium Plus : 1
+SX X-Pro : 1
+144 WB Standard Roof Passenger : 1
+M70 : 1
+King Ranch : 1
+Free Wheeling : 1
+144 WB Standard Roof Crew : 1
+T8 Plus Dark Theme : 1
+GT Plus : 1
+unkown : 1
+SL 4WD : 1
+AT4 : 1
+Lariat : 1
+Luxury FWD : 1
+sDrive30i : 1
+2.5L SE : 1
+Hornet R/T Eawd : 1
+ACTIV : 1
+A-SPEC : 1
+ZR2 : 1
+Series II Carbide 4x4 : 1
+2.0T SEL : 1
+SE Standard Range : 1
+i xDrive : 1
+eDrive50 : 1
+Hybrid Sport-L : 1
+Standard : 1
+Grand Touring : 1
+2.0T Peak Edition SE w/Technology : 1
+SE 2.4 : 1
+Sport w/1SF : 1
+Laramie Mega Cab 4x4 6&#39;4&#39; Box : 1
+F SPORT PERFORMANCE : 1
+Tradesman/SLT/Laramie/Limited : 1
+2.0T SEL R-Line : 1
+XRT : 1
+4-Door Sahara 4x4 : 1
+Calligraphy : 1
+Hornet Gt Awd : 1
+Longhorn : 1
+FWD RS : 1
+Premium 55 TFSI e S line quattro S tronic : 1
+quattro : 1
+Essence : 1
+ST-Line Elite : 1
+i : 1
+Power Wagon : 1
+R/T Plus EAWD : 1
+Wildtrak : 1
+SX Touring : 1
+GT Plus AWD : 1
+M60i : 1
+55 Prestige : 1
+P400 X-Dynamic SE : 1
+2.5 SV : 1
+Premium Luxury : 1
+T8 Plus Bright Theme 7 Passenger : 1
+170 WB High Roof Extended Cargo : 1
+3LT : 1
+Advance : 1
+SV Intelligent AWD : 1

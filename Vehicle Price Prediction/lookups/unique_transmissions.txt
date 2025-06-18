@@ -1,0 +1,38 @@
+8-Speed Automatic : 312
+Automatic : 235
+6-Speed Automatic : 95
+1-Speed Automatic : 69
+9-Speed Automatic : 59
+10-Speed Automatic : 58
+Automatic CVT : 45
+8-Speed Automatic with Auto-Shift : 16
+7-Speed DSGA? Automatic w/ 4MO : 11
+8-Speed Automatic with Tiptronic : 10
+CVT : 9
+6-Spd Aisin F21-250 PHEV Auto Trans : 7
+8-speed automatic : 5
+8-Speed A/T : 4
+7-Speed Automatic with Auto-Shift : 4
+6-Speed Automatic Electronic with Overdrive : 4
+9-Speed 948TE Automatic : 4
+7-Speed Automatic S tronic : 4
+7-Speed DSG Automatic with Tiptronic : 4
+Variable : 3
+9 Spd Automatic : 2
+Aisin 6-Speed Automatic : 2
+CVT with Xtronic : 2
+6-Speed DCT Automatic : 1
+10-Speed Automatic with Overdrive : 1
+8 Speed Dual Clutch : 1
+(CVT) CONT VAR. : 1
+6-Speed A/T : 1
+1-Speed CVT with Overdrive : 1
+9-Speed A/T : 1
+8-Speed Shiftable Automatic : 1
+A/T : 1
+automatic w/paddle shifters : 1
+6-SPEED AUTOMATIC : 1
+9-speed automatic : 1
+10-Speed Shiftable Automatic : 1
+62 kWh battery : 1
+8-Speed Automatic Sport : 1

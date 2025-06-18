@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Heart Disease Predictor</title>
+  <style>
+    :root {
+      --primary-dark: #dcdcdc;
+      --primary-medium: #16213e;
+      --primary-light: #0f3460;
+      --accent-color: #6e48aa;
+      --accent-light: #9d50bb;
+      --text-primary: #e6e6e6;
+      --text-secondary: #b8b8b8;
+      --success-color: #4ade80;
+      --success-dark: #22c55e;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: var(--primary-dark);
+      padding: 20px;
+      color: var(--text-primary);
+      line-height: 1.6;
+    }
+
+    form {
+      background: var(--primary-medium);
+      padding: 30px;
+      border-radius: 12px;
+      max-width: 500px;
+      margin: 40px auto;
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    h2 {
+      text-align: center;
+      color: white;
+      margin-bottom: 25px;
+      font-size: 1.8rem;
+      background: linear-gradient(90deg, var(--accent-color), var(--accent-light));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+      padding-bottom: 8px;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    label {
+      display: block;
+      margin-top: 18px;
+      font-weight: 500;
+      color: var(--text-primary);
+      font-size: 0.95rem;
+    }
+
+    select,
+    input[type="number"] {
+      width: 100%;
+      padding: 12px 15px;
+      margin-top: 8px;
+      border-radius: 8px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      background: var(--primary-light);
+      color: var(--text-primary);
+      font-size: 0.95rem;
+      box-sizing: border-box;
+      transition: all 0.3s ease;
+    }
+
+    select:focus,
+    input[type="number"]:focus {
+      border-color: var(--accent-color);
+      outline: none;
+      box-shadow: 0 0 0 2px rgba(110, 72, 170, 0.3);
+    }
+
+    button {
+      display: block;
+      width: 100%;
+      padding: 14px;
+      background: linear-gradient(135deg, var(--accent-color), var(--accent-light));
+      color: white;
+      font-size: 1rem;
+      font-weight: 600;
+      border: none;
+      border-radius: 8px;
+      margin-top: 30px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+      letter-spacing: 0.5px;
+    }
+
+    button:hover {
+      background: linear-gradient(135deg, var(--accent-light), var(--accent-color));
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(110, 72, 170, 0.4);
+    }
+
+    button:active {
+      transform: translateY(0);
+    }
+
+    .result {
+      text-align: center;
+      margin-top: 25px;
+      font-size: 1.2rem;
+      font-weight: 600;
+      padding: 15px;
+      border-radius: 8px;
+      background: rgba(25, 25, 46, 0.5);
+      border: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    select {
+      appearance: none;
+      background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23b8b8b8'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      background-size: 20px;
+    }
+
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+    }
+  </style>
+</head>
+<body>
+  <form id="predictForm">
+    <h2>Heart Disease Prediction</h2>
+
+    <label>Age</label>
+    <input type="number" name="age" min="0" max="120" required>
+
+    <label>Sex</label>
+    <select name="sex">
+      <option value="0">Female</option>
+      <option value="1">Male</option>
+    </select>
+
+    <label>Chest Pain Type</label>
+    <select name="chest pain type">
+      <option value="1">Typical Angina</option>
+      <option value="2">Atypical Angina</option>
+      <option value="3">Non-anginal Pain</option>
+      <option value="4">Asymptomatic</option>
+    </select>
+
+    <label>Resting Blood Pressure (in mm Hg)</label>
+    <input type="number" name="resting bp s" required>
+
+    <label>Serum Cholesterol (in mg/dl)</label>
+    <input type="number" name="cholesterol" required>
+
+    <label>Fasting Blood Sugar > 120 mg/dl ?</label>
+    <select name="fasting blood sugar">
+      <option value="0">No</option>
+      <option value="1">Yes</option>
+    </select>
+
+    <label>Resting ECG</label>
+    <select name="resting ecg">
+      <option value="0">Normal</option>
+      <option value="1">ST-T Wave Abnormality (T wave inversions and/or ST elevation/depression of > 0.05 mV)</option>
+      <option value="2">Left Ventricular Hypertrophy by Estes' criteria</option>
+    </select>
+
+    <label>Max Heart Rate</label>
+    <input type="number" name="max heart rate" min="71" max="202" required>
+
+    <label>Exercise Induced Angina?</label>
+    <select name="exercise angina">
+      <option value="0">No</option>
+      <option value="1">Yes</option>
+    </select>
+
+    <label>Oldpeak</label>
+    <input type="number" name="oldpeak" step="0.1" required>
+
+    <label>ST Slope</label>
+    <select name="ST slope">
+      <option value="1">Upward</option>
+      <option value="2">Flat</option>
+      <option value="3">Downward</option>
+    </select>
+
+    <button type="submit">Predict</button>
+
+    <div class="result" id="result"></div>
+  </form>
+
+  <script>
+        document.getElementById('predictForm').onsubmit = async function(e) {
+        e.preventDefault();
+
+        const form = e.target;
+
+        const inputValues = [
+        Number(form.age.value),
+        Number(form.sex.value),
+        Number(form["chest pain type"].value),
+        Number(form["resting bp s"].value),
+        Number(form.cholesterol.value),
+        Number(form["fasting blood sugar"].value),
+        Number(form["resting ecg"].value),
+        Number(form["max heart rate"].value),
+        Number(form["exercise angina"].value),
+        Number(form.oldpeak.value),
+        Number(form["ST slope"].value)
+        ];
+
+        const response = await fetch('/predict', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({ values: inputValues })  // Send as 'values' array
+        });
+
+        const result = await response.json();
+        document.getElementById('result').innerText = result.prediction;
+        };
+    </script>
+</body>
+</html>
