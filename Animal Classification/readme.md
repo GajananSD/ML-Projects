@@ -49,17 +49,17 @@ Here are 7 Important augmentations applied to the image:
 
 ![Augmentation 1](images/aug1.png)
 
-![Augmentation 4](images\aug4.png)
+![Augmentation 4](images/aug4.png)
 
-![Augmentation 3](images\aug3.png)
+![Augmentation 3](images/aug3.png)
 
-![Augmentation 2](images\aug2.png)
+![Augmentation 2](images/aug2.png)
 
-![Augmentation 5](images\aug5.png)
+![Augmentation 5](images/aug5.png)
 
-![Augmentation 6](images\aug6.png)
+![Augmentation 6](images/aug6.png)
 
-![Augmentation 7](images\aug7.png)
+![Augmentation 7](images/aug7.png)
 
 </div>
 
