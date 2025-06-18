@@ -47,19 +47,19 @@ Here are 7 Important augmentations applied to the image:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-![Augmentation 1](images/aug1.png)
+<img src="images/aug1.png" alt="Augmentation 1" width="400"/>
 
-![Augmentation 4](images/aug4.png)
+<img src="images/aug2.png" alt="Augmentation 2" width="400"/>
 
-![Augmentation 3](images/aug3.png)
+<img src="images/aug3.png" alt="Augmentation 3" width="400"/>
 
-![Augmentation 2](images/aug2.png)
+<img src="images/aug4.png" alt="Augmentation 4" width="400"/>
 
-![Augmentation 5](images/aug5.png)
+<img src="images/aug5.png" alt="Augmentation 5" width="400"/>
 
-![Augmentation 6](images/aug6.png)
+<img src="images/aug6.png" alt="Augmentation 6" width="400"/>
 
-![Augmentation 7](images/aug7.png)
+<img src="images/aug7.png" alt="Augmentation 7" width="400"/>
 
 </div>
 
@@ -70,7 +70,7 @@ Here are 7 Important augmentations applied to the image:
 
 Image input size = (224,224)
 
-<img src="images\WithoutTL_Arch.png" >
+<img src="images\WithoutTL_Arch.png" width="400"/>
 
 Tried on 30 epochs. The accuracy and loss plot obtained is shown below:
 
