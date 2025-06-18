@@ -47,7 +47,7 @@ Here are 7 Important augmentations applied to the image:
 
 <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
 
-![Augmentation 1](images\aug1.png)
+![Augmentation 1](images/aug1.png)
 
 ![Augmentation 4](images\aug4.png)
 
